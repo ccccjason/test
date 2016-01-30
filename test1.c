@@ -8,6 +8,9 @@ int main(int argc, char *argv[])
         regwerhrwe
         ergwerg
 
+
+        herhewhwer
+
     printf("%d\n", b);
     return 0;
 }
