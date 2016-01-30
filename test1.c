@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
     char b = 0xFF;
     ergwr
         regwerhrwe
+        ergwerg
 
     printf("%d\n", b);
     return 0;
